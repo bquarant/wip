@@ -21,7 +21,8 @@ Progress Timeline:
 *  ```git push``` to gh-pages branch seemed like it worked fine...
 *  CSS did not load on deployment, changed style sheet links in default.html to actual paths 
 *  Links to blog post entries aren't working. They are currently going to <http://bquarant.github.io/jekyll/update/> instead of <http://bquarant.github.io/wip/jekyll/update/>
-*  Added new lines to config.yml ```baseurl:     /wip/ url:         http://bquarant.github.io/wip```
+*  Solving local-side link issue...
+*  Solving deployment-side link issue...
 *  Started writing 'Github Pages and Jekyll' post
 
 
