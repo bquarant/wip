@@ -31,11 +31,11 @@ After some initial difficulties originating from not really understanding the cl
 *  Solving local link ```baseurl``` issue: Duplicate and rename ```_config.yml``` to ```_config-local.yml```, Add ```baseurl: ``` to ```_config-local.yml```. Now you will need to run your local test server with ```jekyll serve -w --config _config-local.yml```, but paths are correct.
 *  Added [gaug.es][gauges] support
 *  Re-installed ImageMagick to have command line tools to manipulate images
-*  Learned how to create markdown image links with Jekyll ``` ![]({{ site.url }}/assets/file-name-of-image) ```
+*  Learned how to create markdown image links with Jekyll ``` ![]({{ site.baseurl }}/assets/file-name-of-image) ```
 
 **Setting**
 <div style="text-align:center;" markdown="1">
-![]({{ site.url }}/assets/hack-space-7-25-2013-2.jpg)
+![]({{ site.baseurl }}/assets/hack-space-7-25-2013-2.jpg)
 <br>
 Boston College, O'Neill Library
 </div>
