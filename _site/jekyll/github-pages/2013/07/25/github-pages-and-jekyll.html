@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Github Pages and Jekyll</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="http://bquarant.github.io/wip/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="http://bquarant.github.io/wip/css/main.css">
+
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+            <div class="header">
+              <h1 class="title"><a href="/">work (in) progress</a>
+              <br><small>make, learn, think</small></h1></a>
+            </div>
+
+                <h2>Github Pages and Jekyll</h2>
+<p class="meta">25 Jul 2013</p>
+
+<div class="post">
+<p>I am a fan of Github Pages for web content publishing, and I have been using it to host my simple attempt at a <a href='http://bquarant.github.io/'>personal landing page</a>. The biggest selling point for me is to be able to create and edit files and then fire off a quick <code>git push</code> in order to have my content published, and for just $7/month I think that it&#8217;s one of the best services I pay for.</p>
+
+<p>Today I finally had a few spare hours that I could dedicate to getting this work in progress log off the ground, so I knew it was time to look into <a href='http://jekyllrb.com/'>Jekyll</a>, a powerful blog-aware static site generator. I&#8217;ve known about of Jekyll for a long time, initially stemming from my brother&#8217;s early involvement in the project and it&#8217;s multitudinous successes. If you were to crawl through all of my commits on Github, you&#8217;ll see that I have made some half-assed attempts at using Jekyll before, but I never got it to work before giving up.</p>
+
+<p>Progress Timeline:</p>
+
+<ul>
+<li>Generated new repository for the work (in) progress blog</li>
+
+<li>Followed the basic steps to get Github Pages started&#8230;</li>
+
+<li>Woohoo! <a href='http://bquarant.github.io/wip/'>http://bquarant.github.io/wip/</a> now resolves to the right location</li>
+
+<li>Struggled for a while after cloning new directory, couldn&#8217;t get it to be &#8216;blog-aware&#8217;</li>
+
+<li>Sucked it up and just ran <code>jekyll new wip | cd wip | jekyll serve -w</code></li>
+
+<li>Cleaned up default scaffold code</li>
+
+<li>Wrote &#8216;Opening Salvo&#8217; blog entry, obligatory introductory stuff&#8230;</li>
+
+<li>Learned some more Markdown formatting tricks</li>
+
+<li><code>git push</code> to gh-pages branch seemed like it worked fine&#8230;</li>
+
+<li>CSS did not load on deployment, changed style sheet links in default.html to actual paths</li>
+
+<li>Links to blog post entries aren&#8217;t working. They are currently going to <a href='http://bquarant.github.io/jekyll/update/'>http://bquarant.github.io/jekyll/update/</a> instead of <a href='http://bquarant.github.io/wip/jekyll/update/'>http://bquarant.github.io/wip/jekyll/update/</a></li>
+
+<li>Added new lines to config.yml <code>baseurl:     /wip/ url:         http://bquarant.github.io/wip</code></li>
+
+<li>Started writing &#8216;Github Pages and Jekyll&#8217; post</li>
+</ul>
+</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  <a href="http://bquarant.github.io/">bquarant.github.io</a> | 2013 
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+    </body>
+</html>

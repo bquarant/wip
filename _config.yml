@@ -4,5 +4,5 @@ name: work (in) progress
 pygments: true
 
 # Server
-baseurl:     /
+baseurl:     /wip/
 url:         http://bquarant.github.io/wip
