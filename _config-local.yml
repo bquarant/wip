@@ -2,6 +2,3 @@ name: work (in) progress
 
 # Dependencies
 pygments: true
-
-# Server
-baseurl: /wip/
