@@ -30,12 +30,12 @@ After some initial difficulties originating from not really understanding the cl
 *  Solving deployment-side link ```baseurl``` issue: Add ```baseurl: /wip``` to ```_config.yml```
 *  Solving local link ```baseurl``` issue: Duplicate and rename ```_config.yml``` to ```_config-local.yml```, Add ```baseurl: ``` to ```_config-local.yml```. Now you will need to run your local test server with ```jekyll serve -w --config _config-local.yml```, but paths are correct.
 *  Added [gaug.es][gauges] support
-*  Re-installed ImageMagick to have command line tools to manipulate images
-*  Learned how to create markdown image links with Jekyll ``` ![]({{ site.baseurl }}/assets/file-name-of-image) ```
+*  Re-installed ImageMagick to have command line tools to manipulate image (e.g. ```convert hack-space-7-25-2013.jpg -resize 50% convert hack-space-7-25-2013-2.jpg``` )
+*  Learned how to create markdown image links with Jekyll ``` ![]({site.baseurl}/assets/file-name-of-image) ```
 
 **Setting**
 <div style="text-align:center;" markdown="1">
-![]({{ site.baseurl }}/assets/hack-space-7-25-2013-2.jpg)
+![]({{site.baseurl}}/assets/hack-space-7-25-2013-2.jpg)
 <br>
 Boston College, O'Neill Library
 </div>
