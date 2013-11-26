@@ -2,7 +2,7 @@
 layout: post
 title:  "Pharmacology - General Principles"
 date:   2013-11-26 2:21:12
-categories: jekyll github-pages
+categories: fundo2 exam3 pharmacology
 ---
 ### Drug receptor definition
 - a specific macromolecular constituent of the biological system with which a drug interacts to produce an effect

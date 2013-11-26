@@ -2,7 +2,7 @@
 layout: post
 title:  "Pharmacology - Dose-Effect Relationships"
 date:   2013-11-26 4:44:23
-categories: jekyll github-pages
+categories: fundo2 exam3 pharmacology
 ---
 
 ### Drug Receptor Interactions and the Law of Mass Action
@@ -35,6 +35,7 @@ categories: jekyll github-pages
 <span><br></span> 
 ### Dose-Effect Relationship and the Assumption of the Isolated System
 - "isolated system" - assumption that there is a direct relationship between the calculated drug concentrations in the experiment and the concentration of drug that the receptor is exposed to.
+- Patients are not isolated systems, in any sense!
 
 <span><br></span> 
 ### Affinity
