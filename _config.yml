@@ -1,7 +1,7 @@
-name: work (in) progress
+name: med school notes
 
 # Dependencies
 pygments: true
 
 # Server
-baseurl:     /wip
+# baseurl:     /wip
