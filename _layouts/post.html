@@ -1,9 +1,58 @@
----
-layout: default
----
-<h2>{{ page.title }}</h2>
-<p class="meta">{{ page.date | date_to_string }}</p>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
 
-<div class="post">
-{{ content }}
-</div>
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="../../../../../css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="../../../../../css/main.css">
+
+		<!-- Set refresh timer for local development -->
+		<meta http-equiv="refresh" content="10" />
+		
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+
+			<h2>{{ page.title }}</h2>
+			<p class="meta">{{ page.date | date_to_string }}</p>
+
+			<div class="post">
+			{{ content }}
+			</div>
+
+
+            <div class="footer">
+              <div class="contact">
+                <p>
+                  <a href="http://bquarant.github.io/">bquarant.github.io</a> | 2013 
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+<!-- Track traffic on gaug.es-->
+		<script type="text/javascript">
+		  var _gauges = _gauges || [];
+		  (function() {
+		    var t   = document.createElement('script');
+		    t.type  = 'text/javascript';
+		    t.async = true;
+		    t.id    = 'gauges-tracker';
+		    t.setAttribute('data-site-id', '51f19a5df5a1f51079000024');
+		    t.src = '//secure.gaug.es/track.js';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(t, s);
+		  })();
+		</script>
+    </body>
+</html>
+
