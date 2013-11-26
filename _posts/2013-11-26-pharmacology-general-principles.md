@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "General Principles of Pharmacology"
+title:  "Pharmacology - General Principles"
 date:   2013-11-26 2:21:12
 categories: jekyll github-pages
 ---
