@@ -4,4 +4,4 @@ name: med school notes
 pygments: true
 
 # Server
-# baseurl:     /wip
+baseurl:     /wip

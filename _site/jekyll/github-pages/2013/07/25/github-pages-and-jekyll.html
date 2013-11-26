@@ -1,0 +1,59 @@
+	---
+layout: default
+---
+<h2>Github Pages and Jekyll</h2>
+<p class="meta">25 Jul 2013</p>
+
+<div class="post">
+<p><strong>tl;dr -</strong> Learning how to make Github Pages and Jekyll play nice together</p>
+
+<p>I am a big fan of Github Pages for web content publishing, and I have been using it to host my simple attempt at a <a href='http://bquarant.github.io/'>personal landing page</a>. The biggest selling point for me is to be able to create and edit files and then fire off a quick <code>git push</code> in order to have my content published on the internet, and for just $7/month I think that it&#8217;s one of the best services I pay for.</p>
+
+<p>Today I finally had a few spare hours that I could dedicate to getting this work in progress log off the ground, so I knew it was time to figure out how to use <a href='http://jekyllrb.com/'>Jekyll</a>, a powerful blog-aware static site generator. I&#8217;ve known about of Jekyll for a long time, initially stemming from my brother&#8217;s early involvement in the project and it&#8217;s multitudinous successes. If you were to crawl through all of my commits on Github, you&#8217;ll see that I have made some half-assed attempts at using Jekyll before, but I never got it to work before giving up.</p>
+
+<p>After some initial difficulties originating from not really understanding the cloned Github Pages code, I wound up just pushing up a default fresh <code>jekyll new</code> and overwriting the Github Pages files. There was some trouble with making deployment and local paths resolve, but ultimately that wasn&#8217;t too difficult. The new site now looks fine and the links function. To close the loop, I placed a new link on the landing page which points here.</p>
+
+<p><strong>Progress Timeline</strong></p>
+
+<ul>
+<li>Generated new repository for the work (in) progress blog</li>
+
+<li>Followed the basic steps to get Github Pages started&#8230;</li>
+
+<li>Woohoo! <a href='http://bquarant.github.io/wip/'>http://bquarant.github.io/wip/</a> now resolves to the right location</li>
+
+<li>Struggled for a while after cloning new directory, <a href='https://help.github.com/articles/using-jekyll-with-pages'>Github&#8217;s help page</a> on the subject isn&#8217;t all that helpful</li>
+
+<li>Sucked it up and just ran <code>jekyll new wip | cd wip | jekyll serve -w</code></li>
+
+<li>Cleaned up default scaffold code</li>
+
+<li>Wrote &#8216;Opening Salvo&#8217; blog entry, obligatory introductory stuff&#8230;</li>
+
+<li>Learned some more Markdown formatting tricks</li>
+
+<li><code>git push</code> to gh-pages branch seemed like it worked fine&#8230;</li>
+
+<li>CSS did not load on deployment, changed style sheet links in default.html to actual paths</li>
+
+<li>Links to blog post entries aren&#8217;t working. They are currently going to <a href='http://bquarant.github.io/jekyll/update/'>http://bquarant.github.io/jekyll/update/</a> instead of <a href='http://bquarant.github.io/wip/jekyll/update/'>http://bquarant.github.io/wip/jekyll/update/</a></li>
+
+<li>Turns out that this problem is due Jekyll configuration of the <code>baseurl</code> variable. Please refer to <a href='http://blog.andrewshell.org/'>Andrew Shell&#8217;s</a> <a href='https://github.com/andrewshell/baseurltest'>helpful post</a> on how to fix the <code>baseurl</code> configuration for Github Pages.</li>
+
+<li>Solving deployment-side link <code>baseurl</code> issue: Add <code>baseurl: /wip</code> to <code>_config.yml</code></li>
+
+<li>Solving local link <code>baseurl</code> issue: Duplicate and rename <code>_config.yml</code> to <code>_config-local.yml</code>, Add <code>baseurl:</code> to <code>_config-local.yml</code>. Now you will need to run your local test server with <code>jekyll serve -w --config _config-local.yml</code>, but paths are correct.</li>
+
+<li>Added <a href='http://gaug.es'>gaug.es</a> support</li>
+
+<li>Re-installed ImageMagick to have command line tools to manipulate image (e.g. <code>convert hack-space-7-25-2013.jpg -resize 50% convert hack-space-7-25-2013-2.jpg</code> )</li>
+
+<li>Learned how to create markdown image links with Jekyll <code>![]({site.baseurl}/assets/file-name-of-image)</code></li>
+</ul>
+
+<p><strong>Setting</strong> <div style='text-align:center;'>
+<p><img alt='' src='/assets/hack-space-7-25-2013-2.jpg' /></p>
+<br />
+<p>Boston College, O&#8217;Neill Library</p>
+</div></p>
+</div>

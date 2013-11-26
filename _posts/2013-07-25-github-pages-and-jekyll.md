@@ -26,11 +26,11 @@ After some initial difficulties originating from not really understanding the cl
 *  ```git push``` to gh-pages branch seemed like it worked fine...
 *  CSS did not load on deployment, changed style sheet links in default.html to actual paths 
 *  Links to blog post entries aren't working. They are currently going to <http://bquarant.github.io/jekyll/update/> instead of <http://bquarant.github.io/wip/jekyll/update/>
-*  Turns out that this problem is due Jekyll configuration of the ```baseurl``` variable. Please refer to [Andrew Shell's][andrew_shell] [helpful post][fix_baseurl] on how to fix the ```baseurl``` configuration for Github Pages.
+*  Turns out that this problem is due Jekyll configuration of the ```baseurl``` variable. See: [Andrew Shell's][andrew_shell] [helpful post][fix_baseurl] on how to fix the ```baseurl``` configuration for Github Pages.
 *  Solving deployment-side link ```baseurl``` issue: Add ```baseurl: /wip``` to ```_config.yml```
 *  Solving local link ```baseurl``` issue: Duplicate and rename ```_config.yml``` to ```_config-local.yml```, Add ```baseurl: ``` to ```_config-local.yml```. Now you will need to run your local test server with ```jekyll serve -w --config _config-local.yml```, but paths are correct.
 *  Added [gaug.es][gauges] support
-*  Re-installed ImageMagick to have command line tools to manipulate image (e.g. ```convert hack-space-7-25-2013.jpg -resize 50% convert hack-space-7-25-2013-2.jpg``` )
+*  Re-installed ImageMagick to have command line tools to manipulate image (e.g. =```convert hack-space-7-25-2013.jpg -resize 50% convert hack-space-7-25-2013-2.jpg``` )
 *  Learned how to create markdown image links with Jekyll ``` ![]({site.baseurl}/assets/file-name-of-image) ```
 
 **Setting**
