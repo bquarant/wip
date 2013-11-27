@@ -47,4 +47,3 @@ categories: fundo2 exam3 pharmacology
 - Stereoselectivity of receptors: *levorphanol* - analgesic / antitussive; *dextromorphan* - antitussive
 - Make racemic mixtures, or do not.
 - SSRI stereochemistry: *citalopram* - racemic mixture of \[R\]-/\[S\]-citalopram; *escitalopram* - pure \[S\]-citalopram
-

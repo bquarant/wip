@@ -33,3 +33,39 @@ categories: fundo2 exam3 pharmacology
 <div style="text-align:center;" markdown="1">
 	![]({{site.baseurl}}/assets/antagonism-allosterism-model.png)
 </div>
+
+### Partial Agonists
+- __partial agonist__: a drug whose intrinsic activity is > 0.0 but < 1.0
+- Depending on the circumstances, a partial agonist may exhibit the properties of either an agonist or antagonist
+- __Suboxone = buprenorphine + naloxone__: What is the rationale for combining a partial agonist and antagonist?
+
+<span><br></span> 
+### Inverse Agonists and Constitutively Active Systems
+- Chloride channel example: default state pore diameter approximately equal to diameter of chloride ion, normal flux.
+- Addition of **agonist** causes decreased pore diameter, thus decreased chloride ion flux
+- Addition of **inverse agonist*** causes increased pore diameter, thus increased chloride ion flux
+
+<span><br></span> 
+### Therapeutic Index 
+- __Selectivity__: The degree to which a drug acts upon a given site relative to all possible sites of interaction
+- __Therapeutic Index__: ratio of the dose which produces toxic effects and the dose which produces the desired therapeutic effect
+- The therapeutic index provides a quantitative assessment of the relative benefits and risks of a drug
+
+<div style="text-align:center;" markdown="1">
+	![]({{site.baseurl}}/assets/therapeutic-effect-fluphenazine.png)
+</div>
+
+<span><br></span> 
+### Multiple Therapeutic Indices
+
+<div style="text-align:center;" markdown="1">
+	![]({{site.baseurl}}/assets/multiple-therapeutic-indices.png)
+</div>
+
+### Heterogeneity of the Patient Population
+- Log-dose response curve as a cumulative normal frequency distribution of sensitivities of the individual responsive units
+- You can choose a linear or semi-logarithmic scale to plot the data; either way: find the x-intercept of 50% on Y-axis, this will give you K<sub>D</sub> = \[X\]
+
+<div style="text-align:center;" markdown="1">
+	![]({{site.baseurl}}/assets/log-dose-response-curve.png)
+</div>
