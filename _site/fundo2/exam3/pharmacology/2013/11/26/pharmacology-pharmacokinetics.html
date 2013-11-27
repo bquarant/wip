@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>Pharmacology - Pharmacokinetics</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+
+		<!-- Set refresh timer for local development -->
+		<meta http-equiv="refresh" content="10" />
+		
+    </head>
+    <body>
+
+        <div class="container">
+          <div class="site">
+
+			<h1>Pharmacology - Pharmacokinetics</h1>
+			<p class="meta">26 Nov 2013</p>
+
+			<div class="post">
+			<h3 id='pharmacokinetics_overview'>Pharmacokinetics Overview</h3>
+
+<ul>
+<li>Pharmacokinetics is a quantitative approach to the behavior of drugs or chemicals in the body</li>
+
+<li>Mathematical models based on assumptions and evidence of the absorption and excretion are applied to predict drug disposition in the body</li>
+
+<li>Knowing the mathematical models allows you to follow drug disposition after administration</li>
+
+<li>Drugs may be modified within the organism into various states:</li>
+</ul>
+<span><br /></span>
+<ol>
+<li><strong>Compartmentalization</strong> (movement from primary site to compartment)</li>
+
+<li><strong>Metabolism</strong> (chemical or enzymatic change to metabolite)</li>
+
+<li><strong>Elimination</strong> (appearance of drug or metabolite in elimination products, e.g., urine, feces, expired air)</li>
+</ol>
+<div style='text-align:center;'>
+<p><img alt='' src='/assets/state-change-diagram.png' /></p>
+</div>
+<h3 id='one_compartment_open_model_with_rapid_iv_injection'>One Compartment Open Model with Rapid IV Injection</h3>
+
+<ul>
+<li>Simplest model of drug disposition, depicts body as one homogenous compartment with constant volume <strong>V</strong></li>
+
+<li><strong>S<sub>0</sub></strong> is the dose of drug injected at time = 0.</li>
+
+<li>It is assumed there is instantaneous mixing throughout <strong>V</strong></li>
+
+<li><strong>S</strong> is the amount of drug remaining in the body at a given time t</li>
+
+<li><strong>C</strong> is the concentration of drug in the body at a given time t, calculated by <strong>C = S/V</strong></li>
+
+<li><strong>k</strong> is the first order rate constant of <em>elimination</em> of the drug from the body, has units time<sup>-1</sup></li>
+
+<li><strong>S<sub>e</sub></strong> is the cumulative amount of drug excreted at any time</li>
+
+<li>Thus: <strong>S = S<sub>0</sub>e<sup>-kt</sup></strong></li>
+
+<li>Also: <strong>C = C<sub>0</sub>e<sup>-kt</sup></strong></li>
+
+<li>This formula allows you to calculate the expected amount of drug (<strong>S</strong>) at any time (t) when the initial dose (<strong>S<sub>0</sub></strong>) and the rate constant for drug elimination (<strong>k</strong>) are known .</li>
+
+<li>Calculation of the initial dose based on amount excreted: <strong>S<sub>e</sub> = S<sub>0</sub>(1- e<sup>-kt</sup>)</strong></li>
+</ul>
+<span><br /></span>
+<h3 id='biological_halftime'>Biological Half-Time</h3>
+
+<ul>
+<li><strong>t<sub>1/2</sub></strong> is defined as the time required for <strong>S</strong> == 0.5 <strong>S<sub>0</sub></strong></li>
+
+<li><strong>t<sub>1/2</sub> = 0.693 / k</strong></li>
+</ul>
+<span><br /></span>
+<h3 id='one_compartment_open_model_with_constant_dose_rate'>One Compartment Open Model with Constant Dose Rate</h3>
+
+<ul>
+<li>Rate of change of the amount of drug on board given by <strong>Rate of Change (dS/dt) = Rate of Input (A) - Rate of Output (E)</strong></li>
+
+<li>A constant franction (<strong>f</strong>) of a constant dose rate (<strong>m</strong>) is absorbed such that <strong>A = fm</strong></li>
+
+<li>First-order excretion process (<strong>E</strong>) is proportional (<strong>k</strong>) to the instantaneous body burden (<strong>S</strong>) such that <strong>E = kS</strong></li>
+
+<li>Thus, <strong>dS/dt = fm - kS</strong></li>
+
+<li>Integrate: <strong>S = fm/k*(1-e<sup>-kt</sup>)</strong></li>
+
+<li>Note that at a rate of 2m, any given concentration will be reached faster; the steady state concentration will be double; but, the rate of equilibration will be the same.</li>
+</ul>
+<div style='text-align:center;'>
+<p><img alt='' src='/assets/plasma-concentration-during-constant-iv-infusion.png' /></p>
+</div>
+<ul>
+<li>Steady state (<strong>SS</strong>) may be defined as a time of no net change in <strong>S</strong>, thus input rate = output rate (<strong>A</strong>=<strong>E</strong>)</li>
+
+<li>At t = SS, e<sup>-kt</sup>=0; thus, <strong>S<sub>SS</sub> = fm/k</strong></li>
+
+<li>And, if <strong>f</strong> and <strong>k</strong> are constant; <strong>S<sub>SS</sub> ~ m</strong></li>
+
+<li>Thus, <strong>(S<sub>SS</sub> - S) = S<sub>SS</sub>e<sup>-kt</sup></strong></li>
+</ul>
+<span><br /></span>
+<h3 id='multiple_dose_case'>Multiple Dose Case</h3>
+
+<ul>
+<li>A common administration technique is to use multiple doses separated by some time interval</li>
+
+<li>This is analogous to the constant dose rate model, but the curve will be saw-tooth instead of smooth</li>
+
+<li>Constant dose rate <strong>m</strong> now expressed as individual doses <strong>D</strong> separated by time <strong>t</strong>, (<strong>D/t</strong>)</li>
+
+<li><strong>S<sub>SS</sub> = fD/kt</strong></li>
+
+<li><strong>S<sub>SS</sub><sup>max</sup> - S<sub>SS</sub><sup>min</sup> = Dose</strong></li>
+
+<li>Priming dose: give a larger dose than required initially in order to reach steady state concentration more rapidly</li>
+</ul>
+<div style='text-align:center;'>
+<p><img alt='' src='/assets/multiple-dose-model.png' /></p>
+</div>
+			</div>
+			<br>
+			<hr>
+            <div class="footer">
+			<h6><p><a href="/">&#60; Back</a></p></h6>
+			</div>
+           	<div class="contact">
+                <p>
+					<a href="http://bquarant.github.io/">bquarant.github.io</a> | 2013 
+               </p>
+              </div>
+          </div>
+        </div>
+
+<!-- Track traffic on gaug.es-->
+		<script type="text/javascript">
+		  var _gauges = _gauges || [];
+		  (function() {
+		    var t   = document.createElement('script');
+		    t.type  = 'text/javascript';
+		    t.async = true;
+		    t.id    = 'gauges-tracker';
+		    t.setAttribute('data-site-id', '51f19a5df5a1f51079000024');
+		    t.src = '//secure.gaug.es/track.js';
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(t, s);
+		  })();
+		</script>
+    </body>
+</html>
