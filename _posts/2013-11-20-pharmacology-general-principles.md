@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pharmacology - General Principles"
-date:   2013-11-26 2:21:12
+date:   2013-11-20 2:21:12
 categories: fundo2 exam3 pharmacology
 ---
 ### Drug receptor definition

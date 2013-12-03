@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pharmacology - Absorption, Distribution, Metabolism, and Excretion"
-date:   2013-11-26 23:08:16
+date:   2013-11-22 23:08:16
 categories: fundo2 exam3 pharmacology
 ---
 
@@ -24,7 +24,7 @@ categories: fundo2 exam3 pharmacology
 ## Absorption Physical Chemistry Questions
 1. A healthy stomach is usually an acidic environment. Would you expect a weak acid or weak base to be better absorbed in the stomach?
 2. Imagine a weak acid \(pK<sub>a</sub> = 4.4 \) is placed in the stomach \(pH = 1.4\). At equilibrium, what would be the ratio of the charged form of the weak acid in the stomach to the uncharged form in the plasma \(pH = 7.4\)? Assume that the uncharged form of the weak acid freely equilibrates across lipid barriers?
-3. What if you changed #2 to a weak base with a pK<sub>a</sub> = 4.4?
+3. What if you changed #2 to a weak basee with a pK<sub>a</sub> = 4.4?
 4. Naltrexone / methylnaltrexone: how do you gain advantage by changing the ionization state of a drug?
 
 <span><br></span>

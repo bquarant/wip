@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pharmacology - Drug Interactions"
-date:   2013-11-26 6:10:11
+date:   2013-11-21 6:10:11
 categories: fundo2 exam3 pharmacology
 ---
 
