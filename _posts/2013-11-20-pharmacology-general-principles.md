@@ -9,7 +9,6 @@ categories: fundo2 exam3 pharmacology
 
 <span><br></span> 
 ### Types of receptors
-
 - Membrane-embedded enzymes
 - Ligand-gated ion channels
 - G-protein coupled receptors
