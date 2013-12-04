@@ -5,6 +5,8 @@ date:   2013-12-03 17:14:31
 categories: fundo2 exam3 genetics pharmacology
 ---
 
+Headers are an outline of the Fundamentals 2, Exam 3 material provided by Dr. Brownie. I've rearranged the order to be a little more logical.
+
 # GENETICS
 
 ### Risk assessment using family history
@@ -26,6 +28,14 @@ categories: fundo2 exam3 genetics pharmacology
 
 <br>
 
+### Carrier risk and new mutation in Duchenne Muscular Dystrophy (DMD)
+- DMD is inherited in an X-linked manner
+- **maternal risk** of transmission is 2/3
+- **de novo** mutation risk is 1/3
+- Thus, maternal carrier risk calculations should be multiplied by 2/3 if it's not known whether she's a carrier.
+
+<br>
+
 ### Mechanisms of Prader-Willi Syndrome and Angelman Syndrome
 - **Prader-Willi Syndrome \(PWS\)**: caused by absence of paternal 15q11-13
 - PWS presents with short stature, cognitive and language deficits, hyperphagia, hypogonadicism
@@ -36,16 +46,6 @@ categories: fundo2 exam3 genetics pharmacology
 - AS caused by maternal 15q11-13 deletion \(68%\), paternal uniparental disomy \(7%\), imprinting center mutation, *UBE3A* mutation, idiopathic
 - Diagnosis: FISH, DNA methylation study, chromosome microarray
 - Negative methylation study does not rule out AS due to other genetic etiologies
-
-<br>
-
-### Linkage analysis
-- DNA linkage analysis uses polymorphic inherited sequences to track nearby sequences of interest from one person to another within the pedigree.  
-- This technique could be used to confirm transmission of a disease-related gene from a parent to, for example, a fetus if the purpose is for prenatal diagnosis.  
-- Testing for rare, disease-related alleles or mutations is better done by direct analysis using oligonucleotides or sequencing methods.
-- From class notes: Increased distance between loci lead to increased likelihood of crossing-over
-- 1% chance of recombination = 1 cM ~ 1x10<sup>6</sup> BP
-- Maximum likelihood = 50%
 
 <br>
 
@@ -73,7 +73,7 @@ categories: fundo2 exam3 genetics pharmacology
 ### Role of Sonic Hedgehog \(Shh\)
 - Sonic hedgehog \(Shh\) is a key paracrine factor implicated in embryogenesis
 - Critical role we should know is its orchestration of anterior cleavage of the prosencephalon
-- Alterations in Shh homeostasis leads to craniofacial defects. See: Fetal Alcohol Syndrome
+- Alterations in Shh homeostasis leads to craniofacial defects, role in fetal alcohol syndrome \(FAS\)
 
 <br>
 
@@ -84,12 +84,6 @@ categories: fundo2 exam3 genetics pharmacology
 - *cis-retinoic acid*: leads to craniofacial defects
 - *valproic acid*: leads to neural tube defects \(NTD\)
 
-<br>
-
-### Carrier risk and new mutation in Duchenne Muscular Dystrophy
-- **de novo** mutation risk is 1/3
-- Thus, maternal carrier risk calculations should be multiplied by 2/3 if it's not known whether she's a carrier.
-- Logic:
 
 <br>
 
@@ -183,7 +177,16 @@ categories: fundo2 exam3 genetics pharmacology
 - Rate of female recombination > rate of male recombination
 - Decreases near centromere, increases near telomere such that male telomeric recombination rate is greater than female.
 - Recombination can cause: **insertions**, **deletions**, or **inversions**.
-- See: Linkage analysis
+
+<br>
+
+### Linkage analysis
+- DNA linkage analysis uses polymorphic inherited sequences to track nearby sequences of interest from one person to another within the pedigree.  
+- This technique could be used to confirm transmission of a disease-related gene from a parent to, for example, a fetus if the purpose is for prenatal diagnosis.  
+- Testing for rare, disease-related alleles or mutations is better done by direct analysis using oligonucleotides or sequencing methods.
+- From class notes: Increased distance between loci lead to increased likelihood of crossing-over
+- 1% chance of recombination = 1 cM ~ 1x10<sup>6</sup> BP
+- Maximum likelihood = 50%
 
 <br>
 
@@ -218,9 +221,9 @@ categories: fundo2 exam3 genetics pharmacology
 
 <br>
 
-### CVS and amniocentesis
+### Chorionic villus sampling and amniocentesis
 - Amniocentesis: Effective, safe \(loss at 1%\). Performed at 16-18 weeks. 7d - 4wk turn around time. Pseudomosaicism and maternal cell contamination are limitations. 
-- CVS: available earlier than amniocentesis but slightly more risky. Look for fetal contribution to the placenta, analyze those cells. Transvaginal or transabdominal approach with no significant change in risk.  
+- Chorionic villus sampling (CVS): available earlier than amniocentesis but slightly more risky. Look for fetal contribution to the placenta, analyze those cells. Transvaginal or transabdominal approach with no significant change in risk.  
 
 <br>
 
@@ -228,7 +231,7 @@ categories: fundo2 exam3 genetics pharmacology
 - MSAFP is used as a neonatal screening test.
 - Abnormalities involving leakage of fetal CSF or blood will increase the AFP concentration in amniotic fluid as well as in the mother's blood.  
 - Normal distribution centered at 1, measured in 'multiples of median'.
-- Down > Normal > Spina Bifida > Anencephaly
+- Down < Normal < Spina Bifida < Anencephaly
 - AFP is to the fetus what serum albumin is to the child postnatally.  
 - Its concentration his highest in fetal blood, so bleeding elevates AFP concentration in amniotic fluid, as does the leakage of cerebrospinal fluid in amniotic fluid (hence the effects of open neural tube defects).  
 - Normal newborns have very high concentrations of AFP in serum, but this rapidly decreases and is replaced by serum albumin produced in the newborn’s liver.
@@ -256,7 +259,7 @@ categories: fundo2 exam3 genetics pharmacology
 ### Drug names:  
 - chemical
 - generic 
-- proprietary (\trade\)
+- proprietary \(trade\)
 
 <br>
 
@@ -268,7 +271,7 @@ categories: fundo2 exam3 genetics pharmacology
 <br>
 
 ### SP3 hybridization, centers of chirality, stereoselectivity of receptors, racemic mixtures
-### Drug-receptor interactions, the law of mass action, the occupancy assumption:  E/Emax = [X]/[Kd + X] 
+### Drug-receptor interactions, the law of mass action, the occupancy assumption:  E/Emax = X/Kd + X
 ### Semi-log plots:  E/Emax vs log of concentration or dose
 ### Spare receptors
 ### Concentration-effect relationship in isolated systems:  affinity and intrinsic activity
@@ -298,7 +301,7 @@ categories: fundo2 exam3 genetics pharmacology
 ### Blood-brain barrier/placental barrier 
 ### Routes of administration
 - Enteral:  	
-- By mouth [per os, PO] and the first pass effect
+- By mouth \(PO\) and the first pass effect
 - Mucous membranes 
 - Intra-arterial
 - Intra-venous
