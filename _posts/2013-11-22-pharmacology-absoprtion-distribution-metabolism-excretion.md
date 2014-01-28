@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pharmacology - Absorption, Distribution, Metabolism, and Excretion"
+title:  "Absorption, Distribution, Metabolism, and Excretion"
 date:   2013-11-22 23:08:16
 categories: fundo2 exam3 pharmacology
 ---

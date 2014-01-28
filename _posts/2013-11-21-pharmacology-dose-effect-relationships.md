@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pharmacology - Dose-Effect Relationships"
+title:  "Dose-Effect Relationships"
 date:   2013-11-21 4:44:23
 categories: fundo2 exam3 pharmacology
 ---

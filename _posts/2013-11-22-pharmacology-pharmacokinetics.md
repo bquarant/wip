@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pharmacology - Pharmacokinetics"
+title:  "Pharmacokinetics"
 date:   2013-11-22 7:37:58
 categories: fundo2 exam3 pharmacology
 ---
