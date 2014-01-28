@@ -2,7 +2,7 @@
 layout: post
 title:  "Mucosal Immunity"
 date:   2014-01-27 19:30:02
-categories: fundo3
+categories: immunology
 ---
 ### Introductory Remarks
 - Today's lecture on mucosal immunity, brought to us by Dr. Russell of the Department of Microbiology and Immunology, covered a lot of important basic science, but was lacking in direct clinical applications (outside of passing references to C. difficile and parasitic infections), despite the opening salvo regarding the fact that 90% of the most common fatal pathogens are mucosally acquired. I definitely learned a lot about the IgA molecule and its metabolism, and the concept of the compartmentalized mucosal vs. systemic components of mucosal immunity was new to me, well described, and thought-provoking.
