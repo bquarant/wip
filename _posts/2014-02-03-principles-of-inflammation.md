@@ -5,37 +5,53 @@ date:   2014-02-03 08:00:00
 categories: pathology
 ---
 
-### Things to follow up on:
-- Some make-up workl work covered 1-10
-- Lecture notes up to slide ~25 or so... 8:18 or so...
-- 8:30-8:32, slides 40-42
-- Add picture of margination
-
-<span><br></span>
-
 ### Learning Objectives
-- Signs of acute inflammation and host advantages of these reactions
-- Causes of an inflammatory response
-- Sequential events in acute inflammation
-- Mechanisms of events in inflammation
-- Consequences of vascular events
-- Role of adhesion molecules and mediators
-- Control of inflammatory response and treatment
+- Signs of acute inflammation and host advantages of these reactions?
+- Causes of an inflammatory response?
+- Sequential events in acute inflammation?
+- Mechanisms of events in inflammation?
+- Consequences of vascular events?
+- Role of adhesion molecules and mediators?
+- Control of inflammatory response and treatment?
 
 <span><br></span>
 
 ### Introductory Clinical Case
-- JB is a 30 year old male working in his garage cutting lumber when he sustained a 5cm laceration on his right upper extremity.
-- The wound bled for a few minutes, then the surrounding skin became red at 10 minutes. Skin was red, puffy, warm, and painful at 30 minutes. Pain, swelling, and erythema improved by 48 hours. 
-- Questions to be asked:
-- Why is the wound red, warm, and swollen?
-- What is the cause of the pain?
-- What is the pathologic process?
-- What will happen to such an injury, and what are the consequences of untreated wounds?
+- 30 year old male working in his garage cutting lumber sustains a 5cm laceration on his right upper extremity.
+- The wound bled for a few minutes, then the surrounding skin became red at 10 minutes post-injury. Skin was red, puffy, warm, and painful at 30 minutes. Pain, swelling, and erythema improved by 48 hours. 
+- **Questions to be asked**: Why is the wound red, warm, and swollen? What is the cause of the pain? What is the pathologic process? What will happen to such an injury, and what are the consequences of untreated wounds?
 
 <span><br></span>
 
-###Cast of Characters
+### Inflammation - A Definition
+- Means: "to set aflame or on fire"
+- Universal response in vascular tissue; many causes produce the same response.
+- Ranges from minor to complicated (e.g., handling an infection)
+- Double-edged sword: is protective but causes destructive collateral damage.
+
+<span><br></span>
+
+### Triggers and Types of Inflammation
+- Physical trigger: trauma, surgery
+- Chemical trigger: medicine, drugs, poisons
+- Infection trigger: bacteria, fungi, viruses
+- Immune reaction trigger: allergy, auto-immune
+- Physiologic trigger: necrosis, ischemia.
+- Note that not all injuries cause inflammation, for example, metabolic diseases.
+- Types of inflammation: Acute, subacute, chronic. May transition from acute to chronic.
+
+<span><br></span>
+
+### Signs of Inflammation
+- Rubor (erythema, redness, hyperemia). Host advantage: 
+- Calor (warmth). 
+- Tumor (swelling, edema, wheal if localized)
+- Dolor (pain)
+- Loss of function (fifth sign, added by Virchow)
+
+<span><br></span>
+
+### Cast of Characters
 - Polymorphonuclear neutrophils, colorful but messy
 - Monocytes: aggressive, ready for 
 - Lymphocyte: "cranky, opinionated" important in chronic inflammation
@@ -120,3 +136,12 @@ categories: pathology
 - *Recognition and attachment*: **opsonins (Fc of IgG and C3b)** coat bacterial surface. Phosphatidylserine rotates to cell surface. Thrombospondin also expressed on cell surface. 
 - *Engulfment* leads to phagosome internalizastion
 - *Degradation* after phagolyososome formation
+
+<span><br></span>
+
+### Things to follow up on:
+- Some make-up workl work covered 1-10
+- Lecture notes up to slide ~25 or so... 8:18 or so...
+- 8:30-8:32, slides 40-42
+- Add picture of margination
+
