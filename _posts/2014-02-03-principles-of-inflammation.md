@@ -109,7 +109,7 @@ categories: pathology
 ### Transmigration
 - PECAM is autophilic, binds to itself, and is used by all WBCs. 
 - Allows for transmigration.
-- Pierces basement membrane using collagenases
+- Pierces basement membrane using collagenase
 - WBCs move through the vessel wall, largely interendothelial movement. PMNs in first 24 hours, monocytes and macrophages after 48 hours.
 
 <span><br></span>
@@ -134,7 +134,7 @@ categories: pathology
 ### Phagocytosis
 - PMNs and Macrophages:
 - *Recognition and attachment*: **opsonins (Fc of IgG and C3b)** coat bacterial surface. Phosphatidylserine rotates to cell surface. Thrombospondin also expressed on cell surface. 
-- *Engulfment* leads to phagosome internalizastion
+- *Engulfment* leads to phagosome internalization
 - *Degradation* after phagolyososome formation
 
 <span><br></span>
