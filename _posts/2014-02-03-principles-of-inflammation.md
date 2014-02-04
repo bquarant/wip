@@ -59,10 +59,10 @@ categories: pathology
 <span><br></span>
 
 ### Sequential Vascular Events
-1. Vasoconstriction: very brief
-2. Vasodilation: arterioles at first, increased blood flow, leads to erythema and heat
-3. Stasis: capillaries and venules. Flow slows down due to vasodilation, hemoconcentration causes increased viscosity, which promotes margination of the leukocytes
--Venturi effect: although the total flow increases, the velocity is slower
+- Step one: Vasoconstriction: very brief
+- Step two: Vasodilation: arterioles at first, increased blood flow, leads to erythema and heat
+- Step three: Stasis: capillaries and venules. Flow slows down due to vasodilation, hemoconcentration causes increased viscosity, which promotes margination of the leukocytes
+- Of note: **Venturi effect**: although the total flow increases, the velocity is slower
 
 <span><br></span>
 

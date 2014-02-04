@@ -26,12 +26,12 @@ categories: pathology
 - Disease caused by extracellular deposits of fibrillar proteins, 23 different amyloid types.
 - Originally discovered by Virchow in 1854, thought to be starch at first
 - Amyloid turns brown with iodine, then blue when H<sub>2</sub>SO<sub>4</sub> is added.
-- Affinity for congo red, amyloid takes a salmon pink color.
+- Affinity for the dye **congo red**, after staining amyloid takes a salmon pink color.
 - Green-yellow birefringence under polarized light with fibrillar B-pleated sheet ultrastructure 
-- Amyloid is **insoluble** in tissue, **resistatn** to proteolysis, **accumulates** once deposit, creates compression and leads to **pressure atrophy**. 
+- Amyloid is **insoluble** in tissue, **resistant** to proteolysis, **accumulates** once deposit, creates compression and leads to **pressure atrophy**. 
 - Affected organs can be enlarged, firm, and waxy.
-- **P component**: the "doughnut portion," not really amyloid, member of pentraxin, not congophilic. Function is to stabilize amyloid deposit. Made by the liver and circulates as an alpha-globulin precursor molecule **SAP** (related to CRP).
-- **Types of amyloid proteins**: 23 known, all begin with A. Immunoglobulin light chains, amyloid associated, transthyretin (prealbumin), Beta-2-microglobulin, hormone-related (IAPP), beta-amyloid (brain).
+- **P component**: the "doughnut portion," not really amyloid, member of pentraxin family, not congophilic. It is a protein whose function is to stabilize the amyloid deposit. Made by the liver and circulates as an alpha-globulin precursor molecule **SAP** (related to CRP).
+- **Types of amyloid proteins**: 23 currently known, all begin with A. Various general types include: immunoglobulin light chains, amyloid associated, transthyretin (prealbumin), Beta-2-microglobulin, hormone-related (IAPP), beta-amyloid (brain).
 - **Pathogenesis**: There is a stimulus of some sort, then cells that make the amyloid, then insoluble protein formation.
 
 <span><br></span>
