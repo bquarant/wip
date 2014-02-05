@@ -25,9 +25,7 @@ categories: pathology
 - Neoplasms may arise from any tissue in the body, especially from **cells that are normally actively proliferating**. May be grouped based on histologic origin.
 - *Epithelia*: glandular or squamous
 - *Mesenchymal*: bone, cartilage, blood vessels
-- *Neuroectoderm*
-- *Hematopoietic* or *lymphoid*
-- *Germ cells*
+- Other types to recognize: *neuroectoderm*, *hematopoietic* or *lymphoid*, *germ cells*
 
 <span><br></span>
 
@@ -53,7 +51,7 @@ categories: pathology
 <span><br></span>
 
 ### Tumor grading
-- Uses a combination of histologic features (mitotic activity, nuclear size, nuclear shape, presence of nucleoli, cell architecture) which predicts biologic behavior.
+- Uses a combination of histologic features (mitotic activity, nuclear size, nucleus to cytoplasm ratio, nuclear shape, presence of nucleoli, cell architecture) which predicts biologic behavior.
 - The specifics of the grading system depends on the tumor type, but there's typically 3 or 4 grade levels.
 - Note: tumor grading has **less clinical value** than tumor staging.
 - Example: Breast cancer - sum score based on tubule formation, nuclear pleomorphism, mitotic count.
