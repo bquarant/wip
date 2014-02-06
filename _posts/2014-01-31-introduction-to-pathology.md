@@ -4,18 +4,11 @@ title:  "Introduction to Pathology"
 date:   2014-01-31 08:00:00
 categories: pathology
 ---
-- "You can see a lot by looking" - Yogi Berra
-
-<span><br></span>
-
-### Things to follow up on:
-- Figure out how to make a markdown table for the necrosis vs. apoptosis comparison table...
-
-<span><br></span>
 
 ### Objectives
 - Students should be familiar with the following mechanisms:
 - *Necrosis, apoptosis, cell inclusions, ischemia, infarction, autophagia, and enzyme concentration change during necrosis*
+- "You can see a lot by looking" - Yogi Berra
 
 <span><br></span>
 
@@ -69,7 +62,7 @@ categories: pathology
 <span><br></span>
 
 ###  Protein Misfolding - Desmin Storage Disease
-- Misfolded **desmin** protein is formed.
+- A misfolded **desmin** protein is formed. (Why?)
 - The cell tries to handle this misfolded desmin using the chaperone protein, **alpha-beta-crystalline**, which tries to refold it.
 - Despite this, the misfolded desmin protein persists
 - Alpha-beta-crystalline then presents desmin for ubiquitination
@@ -111,10 +104,10 @@ categories: pathology
 - **Fas or CD95**: destiny or fate, member of the TNF receptor family
 - **FLIP**: FLICE inhibitor protein.
 - **Apaf**: apoptosis activating factor
-- **Bcl**: "B-cell lymphoma" - a family of anti-apoptotic proteins
-- **Bax**: Bcl-associated X protein: pro-apoptic effectors
+- **Bcl-2**: "B-cell lymphoma" - a family of anti-apoptotic proteins
+- **Bax**: Bcl-associated X protein: pro-apoptotic effectors
 - Overview of Apoptosis:
-- Path 1: Fas-Receptor (CD95) pathway: CD95 binds with FAS ligans, like TNF. This activates the cytoplasmic **"death domain"**, which activates **caspase-8**, which activates **caspase-3** and then endonuclease activity.
+- Path 1: Fas-Receptor (CD95) pathway: CD95 binds with FAS ligands, like TNF. This activates the cytoplasmic **"death domain"**, which activates **caspase-8**, which activates **caspase-3** and then endonuclease activity.
 - Path 2: Mitochondrial route: happens due to poor homeostatic control of **Bcl-2**, which is usually maintained by external signaling (e.g. estrogen in the menstrual cycle) binding to cell survival factor receptors, and leading to maintenance of Bcl-2 expression. The mitochondria will then leak **cytochrome C**, activating **apaf-1** then **caspase-9**, which turns on **capase-3** and then endonuclease activity.
 - Path 3: Free radicals, ischemia, chemotherapy: leads to DNA damage, which increases **TP53** an intermediate to **BAX**, a proapoptotic factor in the Bcl-2 (hence mitochondrial) pathway. 
 - _**Microscopic features**_: Peripheral condensation of chromatin, pyknosis (darkening and shrinking of the nucleus), nuclear fragmentation, condensed, eosinophilic cytoplasm, apoptotic body formation. Sequestration of the apoptotic cell by phagocytes. Despite these, often difficult to tell between a necrotic cell and an apoptotic cell using light microscopy!
