@@ -17,7 +17,7 @@ categories: fundo2 exam3 pharmacology
 3. **Elimination** (appearance of drug or metabolite in elimination products, e.g., urine, feces, expired air)
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/state-change-diagram.png)
+![]({{site.baseurl}}/assets/state-change-diagram.png)
 </div>
 
 ### One Compartment Open Model with Rapid IV Injection
@@ -48,7 +48,7 @@ categories: fundo2 exam3 pharmacology
 - Note that at a rate of 2m, any given concentration will be reached faster; the steady state concentration will be double; but, the rate of equilibration will be the same.
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/plasma-concentration-during-constant-iv-infusion.png)
+![]({{site.baseurl}}/assets/plasma-concentration-during-constant-iv-infusion.png)
 </div>
 
 - Steady state \(**SS**\) may be defined as a time of no net change in **S**, thus input rate = output rate \(**A**=**E**\)
@@ -66,5 +66,5 @@ categories: fundo2 exam3 pharmacology
 - Priming dose: give a larger dose than required initially in order to reach steady state concentration more rapidly
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/multiple-dose-model.png)
+![]({{site.baseurl}}/assets/multiple-dose-model.png)
 </div>

@@ -56,13 +56,13 @@ categories: fundo2 exam3 pharmacology
 - Don't expect a constant relationship between __affinity__ and __potency__
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/opioid-potency-curve.png)
+![]({{site.baseurl}}/assets/opioid-potency-curve.png)
 </div>
 
 - __Efficacy__ refers to a drug's ability to produce a maximum therapeutic effect.
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/opioid-efficacy-curve.png)
+![]({{site.baseurl}}/assets/opioid-efficacy-curve.png)
 </div>
 
 <span><br></span> 

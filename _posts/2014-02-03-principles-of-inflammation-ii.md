@@ -34,7 +34,7 @@ categories: pathology
 - Kininase: inhibits bradykinin, thus limits pain and increased vascular permeability.
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/factor-xiia.png)
+![]({{site.baseurl}}/assets/factor-xiia.png)
 </div>
 
 
@@ -76,7 +76,7 @@ categories: pathology
 - **Nitric Oxide**: produced by endothelium and macrophages. Produces vasodilation and vascular smooth muscle relaxation. Reduces WBC rolling and adhesion, therefore slows down the inflammatory response.
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/prostaglandins-and-leukotrienes.png)
+![]({{site.baseurl}}/assets/prostaglandins-and-leukotrienes.png)
 </div>
 
 <span><br></span>

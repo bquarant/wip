@@ -34,7 +34,7 @@ categories: pathology
 - Inflammation is a series of overlapping steps!
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/inflammation-overlapping-processes.png)
+![]({{site.baseurl}}/assets/inflammation-overlapping-processes.png)
 </div>
 
 <span><br></span>

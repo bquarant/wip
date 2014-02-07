@@ -31,7 +31,7 @@ categories: fundo2 exam3 pharmacology
   - __insurmountable antagonism__ - formation of covalent bonds
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/antagonism-allosterism-model.png)
+![]({{site.baseurl}}/assets/antagonism-allosterism-model.png)
 </div>
 
 ### Partial Agonists
@@ -52,14 +52,14 @@ categories: fundo2 exam3 pharmacology
 - The therapeutic index provides a quantitative assessment of the relative benefits and risks of a drug
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/therapeutic-effect-fluphenazine.png)
+![]({{site.baseurl}}/assets/therapeutic-effect-fluphenazine.png)
 </div>
 
 <span><br></span> 
 ### Multiple Therapeutic Indices
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/multiple-therapeutic-indices.png)
+![]({{site.baseurl}}/assets/multiple-therapeutic-indices.png)
 </div>
 
 ### Heterogeneity of the Patient Population
@@ -67,5 +67,5 @@ categories: fundo2 exam3 pharmacology
 - You can choose a linear or semi-logarithmic scale to plot the data; either way: find the x-intercept of 50% on Y-axis, this will give you K<sub>D</sub> = \[X\]
 
 <div style="text-align:center;" markdown="1">
-	![]({{site.baseurl}}/assets/log-dose-response-curve.png)
+![]({{site.baseurl}}/assets/log-dose-response-curve.png)
 </div>

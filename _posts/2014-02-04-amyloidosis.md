@@ -5,24 +5,22 @@ date:   2014-02-04 11:00:00
 categories: pathology
 ---
 
-### TODO
-- Complete learning objectives
-
-<span><br></span>
-
 ### Learning Objectives
-- complete!
+- Various types of amyloid and the diseases they produce
+- Attributes of amyloid
+- Mechanisms of amyloid formation and tissue destruction
+- Methods of diagnosis
 
 <span><br></span>
 
-### Clinical Cases
+### Introductory clinical cases
 - 45F with history of multiple myeloma presents with gradually worsening difficulty speaking. Physical examination finds macroglossia with subsequent exams showing continued enlargement of the tongue.
 - 39F with history of arthritis, particularly of the hands consistent with rheumatoid arthritis. Labs showed IgM autoantibodies to IgG. Physical examination reveals hepatomegaly. Should liver biopsy be performed?
 - 75M autopsy shows thickening of the endocardium of the left atrium, microscopically shows amorphous material between myocardial fibers when stained with congo red.
 
 <span><br></span>
 
-### Amyloidosis
+### Properties and pathophysiology of amyloid 
 - Disease caused by extracellular deposits of fibrillar proteins, 23 different amyloid types.
 - Originally discovered by Virchow in 1854, thought to be starch at first
 - Amyloid turns brown with iodine, then blue when H<sub>2</sub>SO<sub>4</sub> is added.
@@ -31,30 +29,34 @@ categories: pathology
 - Amyloid is **insoluble** in tissue, **resistant** to proteolysis, **accumulates** once deposit, creates compression and leads to **pressure atrophy**. 
 - Affected organs can be enlarged, firm, and waxy.
 - **P component**: the "doughnut portion," not really amyloid, member of pentraxin family, not congophilic. It is a protein whose function is to stabilize the amyloid deposit. Made by the liver and circulates as an alpha-globulin precursor molecule **SAP** (related to CRP).
-- **Types of amyloid proteins**: 23 currently known, all begin with A. Various general types include: immunoglobulin light chains, amyloid associated, transthyretin (prealbumin), Beta-2-microglobulin, hormone-related (IAPP), beta-amyloid (brain).
+- **Types of amyloid proteins**: 23 currently known, all begin with A. Various general types include: immunoglobulin light chains, amyloid associated, transthyretin (prealbumin), beta-2-microglobulin, hormone-related (IAPP), beta-amyloid (brain).
 - **Pathogenesis**: There is a stimulus of some sort, then cells that make the amyloid, then insoluble protein formation.
+
+<div style="text-align:center;" markdown="1">
+![]({{site.baseurl}}/assets/congo-red-positive.png)
+</div>
 
 <span><br></span>
 
-### AL protein
-- "Primary amyloidosis" - amyloid is composed of immunoglobulin light chains, most usually lamba chains. Tend to be systemic. 
-- Plasma cell dyscrasias: myeloma-associated or plasma cell hyperplasia (more common!). 
-- Pathology: deposits in the synovium lead to arthritis, deposits in the heart lead to heart failure and arryhtmia, macroglossia, and skin producing nodules
-- Diagnostics: Blood work should be illuminating.
+### AL (primary) amyloidosis
+- "Primary amyloidosis" - amyloid is composed of immunoglobulin light chains, most usually lamba chains. Tends to lead to systemic disease. 
+- Cause: **plasma cell dyscrasias**: myeloma-associated or plasma cell hyperplasia (more common!). 
+- Pathology: deposits in the synovium lead to arthritis, deposits in the heart lead to heart failure and arrhythmia, macroglossia, and skin producing nodules
+- Diagnostics: Blood work, peripheral smear
 - Treatment: treat the multiple myeloma, no good treatment for the primary amyloidosis though.
 
 <span><br></span>
 
-### AA amyloid
+### AA (secondary) amyloidosis
 - "Secondary amyloidosis" - but probably the most common form
 - Amyloid is derived from SAA, which is produced by the liver after being stimulated by **IL-1** and **IL-6**.
 - Chronic infection / inflammation-related: osteomyelitis, kidney failure, but also deposits in liver, spleen, and intestine.
-- Familial Mediterranean Fever: inherited disease, mutations in *MEFV* on 16p, codes for **pyrin** in PMNs. Disease characterized by intermittent acute attacks including fever, peritonitis, abdominal pain, acute arthritis, skin rash, and renal disease or nephrotic syndrome.
+- **Familial Mediterranean Fever**: inherited disease, mutations in *MEFV* on 16p, codes for **pyrin** in PMNs. Disease characterized by intermittent acute attacks including fever, peritonitis, abdominal pain, acute arthritis, skin rash, and renal disease or nephrotic syndrome.
 - Livers should not be biopsied due to blood vessel fragility and risk for fatal hemorrhage.
 
 <span><br></span>
 
-### ATTR Protein
+### ATTR (transthyretin) amyloidosis
 - made in the choroid plexus and liver
 - Precursor is **transthyretin (prealbumin)** which normally functions to transport thyroxine
 - **Familial neuropathies**: dominant inheritance pattern, usually due to a single AA substituion
@@ -63,7 +65,7 @@ categories: pathology
 
 <span><br></span>
 
-### B<sub>2</sub>-microglobulin
+### B<sub>2</sub>-microglobulin amyloidosis
 - Normal serum protein which is elevated in chronic renal disease
 - Amyloid deposits in the synovium, tendons, and carpal ligament. Consider when patient presents with median nerve compression (carpal tunnel syndrome)
 
@@ -75,9 +77,7 @@ categories: pathology
 
 <span><br></span>
 
-<span><br></span>
-
-### Diagnosis
+### Diagnosis of amyloidosis
 - Generalized (systemic): Usually AL or AA. Biopsy the rectal, gingival, or abdominal fat.
 - Cardiac: myocardial biopsy
 - Renal: kidney biopsy
