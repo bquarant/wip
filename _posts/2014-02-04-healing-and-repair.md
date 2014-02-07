@@ -5,27 +5,31 @@ date:   2014-02-04 09:00:00
 categories: pathology
 ---
 
-### TODO
-- FOLLOW UP ON STAGES OF HEALING
-- Complete learning objectives
-
-<span><br></span>
-
 ### Learning Objectives
-- complete!
+- The major mediators of repair: VEGF, bFGF, TGF-beta, SPARC, angiostatin, thrombospondin
+- The special types of wound healing
+- The purpose of healing and repair, and disadvantages
+- Healing by primary vs. secondary intention
+- Three types of tissue regeneration
+- Three basic ways tissue may heal
+- Abnormal wound healing
+- What gives a healing surgical incision strength
+- Use of CRP and ESR in assessing healing
+- **Definitions**: granuloma, granulation tissue, angiogenesis, scar, keloid, proud flesh, dystrophic calcification, dehiscence, pyogenic granuloma, incisional hernia, cirrhosis
 
 <span><br></span>
 
 ### "Healing is not a science but the art of wooing nature"
-- ReconstructioN; regeneration of tissue
+- The three basic outcomes after tissue injury: **reconstruction, partial reconstruction, or scar formation**
+- Reconstruction: regeneration of tissue
 - Partial reconstruction: some regeneration, some scar.
-- Scar formation: clinical significance depends on location (i.e. scar in the heart is instantly fatal vs. superficial skin).
-- Purposes of repair: stop bleeding, prevent infection, fill in the defect (ie laceration), pull tissue back together (through wound contraction)
+- Scar formation: clinical significance depends on location (i.e. scar in the heart that is instantly fatal vs. a superficial skin scar).
+- Purposes of repair: stop bleeding, prevent infection, fill in the defect (e.g., laceration), pull tissue back together (through wound contraction)
 
 <span><br></span>
 
 ### Tissue Regeneration
-- The more regeneration, the less scar.
+- The more regeneration, the less scar. Cell regeneration is largely under the influence of growth factors.
 - Regeneration depends on tissue type. **Labile** cells have constant turnover and replacement, but a short life span (e.g. bone marrow, epithelium, epidermis). **Stable cells**: able to turn over if stimulated (i.e. bone, hepatocytes). **Permanent cells**: little ability to turn over (i.e. muscle, nerve).
 - Epidermis is labile, but scar formation still?! Resolving the paradox: the scar is formed from lower dermal layers!
 
@@ -41,8 +45,8 @@ categories: pathology
 <span><br></span>
 
 ### Wound Healing
-- Healing by primary intention: minimal tissue separation, e.g.
-- Healing by secondary intention
+- Healing by primary intention: minimal tissue separation, e.g. sutured wound.
+- Healing by secondary intention: greater tissue separation, e.g, tooth socket.
 - Q: Why is the scar white? A: There are no vessels!
 
 <span><br></span>
@@ -54,17 +58,17 @@ categories: pathology
 <span><br></span>
 
 ### Variants and complications of normal wound healing
-- Excessive granulation tissue: Likely mediated by FLT-4, a VEGF ligand.
+- Excessive granulation tissue: **pyogenic granuloma or "proud flesh"**, looks like a large, well-cirumscribed red raised plaque Angiogenesis seems to be driving this process, likely mediated by FLT-4, a VEGF ligand.
 - Excessive scar tissue: Hypertrophic or keloid scar, looks kind of a like a tumor. More common in African Americans. Current thought is that it is related to **WNT** activation, which prevents **b-catenin** degradation, which leads to fibroblast proliferation.
 - Defective scar formation: herniation of the wound, wound dehiscence, failure of wound closure
-- Dystrophic calcification: deposition of calcium in the tissue. Seen in atherosclerosis, aging heart valves, granulomas, tumors. Occurs at site of injury. Basophilic (i.e. blue)! Intracellular: starts in the mitochondria. Extracellular: starts with dead cells. Calcium binds to membrane or vesicular phosophlipids. Phosphatases generate phosphate, **CaPO<sub>4</sub>** microcrystals form, cycle repeats. **Crystallization propagation** occurs, forming deposits. Matrix proteins like **osteopontin** facilitate the propagation.
-- Delayed wound healing: infection, aging, diabetes, poor blood supply (i.e. vascular disease).
+- **Dystrophic calcification**: deposition of calcium in the tissue. Seen in atherosclerosis, aging heart valves, granulomas, tumors. Occurs at site of injury. Basophilic (i.e. blue)! Intracellular: starts in the mitochondria. Extracellular: starts with dead cells. Calcium binds to membrane or vesicular phosophlipids. Phosphatases generate phosphate, **CaPO<sub>4</sub>** microcrystals form, cycle repeats. **Crystallization propagation** occurs, forming deposits. Matrix proteins like **osteopontin** facilitate the propagation.
+- **Causes of delayed wound healing**: infection, foreign material, size or location of wound,  aging, diabetes, poor blood supply (i.e. vascular disease), nutrition,
 
 <span><br></span>
 
 ### Advances in wound treatment
-- Silver (silvadene): topical antimicrobial
+- Silver (silvadene): topical antimicrobial, used in burn treatment
 - Smart dressings: contain growth factors like PDGF (becaplemin)
 - Negative pressure devices: provides a sealed, protected moist environment
 - Hyperbaric chamber
-- Platelet rich plasma (PRP): contains growth factors and platelets, orthopods now injecting this directly into the surgical field
+- Platelet rich plasma (PRP): contains growth factors and platelets, orthopedists now injecting this directly into the surgical field
