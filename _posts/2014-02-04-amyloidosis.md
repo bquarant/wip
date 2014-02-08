@@ -5,7 +5,7 @@ date:   2014-02-04 11:00:00
 categories: pathology
 ---
 
-### Learning Objectives
+### Learning objectives
 - Various types of amyloid and the diseases they produce
 - Attributes of amyloid
 - Mechanisms of amyloid formation and tissue destruction
@@ -50,7 +50,7 @@ categories: pathology
 ### AA (secondary) amyloidosis
 - "Secondary amyloidosis" - but probably the most common form
 - Amyloid is derived from SAA, which is produced by the liver after being stimulated by **IL-1** and **IL-6**.
-- Chronic infection / inflammation-related: osteomyelitis, kidney failure, but also deposits in liver, spleen, and intestine.
+- Cause: **Chronic infection / inflammation-related**: osteomyelitis, kidney failure, but also deposits in liver, spleen, and intestine.
 - **Familial Mediterranean Fever**: inherited disease, mutations in *MEFV* on 16p, codes for **pyrin** in PMNs. Disease characterized by intermittent acute attacks including fever, peritonitis, abdominal pain, acute arthritis, skin rash, and renal disease or nephrotic syndrome.
 - Livers should not be biopsied due to blood vessel fragility and risk for fatal hemorrhage.
 
@@ -59,8 +59,8 @@ categories: pathology
 ### ATTR (transthyretin) amyloidosis
 - made in the choroid plexus and liver
 - Precursor is **transthyretin (prealbumin)** which normally functions to transport thyroxine
-- **Familial neuropathies**: dominant inheritance pattern, usually due to a single AA substituion
-- **Cardiac**: *Senile* - 5-10% of elderly, no symptoms. *Familial* - clinical cardiomyopathy. Deposits typically in the left atrium and mainly subendocardial and not extensive. Think about this when you have familial cardiomegaly or CHF.
+- **Familial neuropathies**: dominant inheritance pattern, usually due to a single AA substitution
+- **Amyloid cardiomyopathy**: *Senile* - 5-10% of elderly, no symptoms. *Familial* - clinical cardiomyopathy. Deposits typically in the left atrium and mainly subendocardial and not extensive. Think about this when you have familial cardiomegaly or CHF.
 - New therapy using siRNA cleaves target mRNA, use nanoparticles to deliver the siRNA to hepatocytes, decrease circulating ATTR.
 
 <span><br></span>

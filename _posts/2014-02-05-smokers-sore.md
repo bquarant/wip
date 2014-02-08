@@ -28,7 +28,7 @@ categories: pathology
 
 ### Differential diagnosis of a tongue lesion
 - **Aphthous Ulcer (Canker sore)** - This is a common, recurrent painful lesion of the oral cavity. The cause is unknown, onset between 1-25 years, and typically resolve in 7 to 10 days.
-- **Leukoplakia**: nonspecific term to mean white patch on the tongue. This may be premalignant and give rise to carcioma.
+- **Leukoplakia**: nonspecific term to mean white patch on the tongue. This may be premalignant and give rise to carcinoma.
 - **Remainder**: trauma, infection, amyloidosis, neoplasia
 - Causes of mass lesions: hyperplasia, hypertrophy, edema, hemorrhage, inflammation, infection, repair (keloid vs. pyogenic granuloma), tumor (benign vs. malignant)
 

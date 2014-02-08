@@ -5,16 +5,6 @@ date:   2014-02-04 13:00:00
 categories: pathology
 ---
 
-### TODO
-- Complete learning objectives
-
-<span><br></span>
-
-### Learning Objectives
-- complete!
-
-<span><br></span>
-
 ### Introductory definitions
 - **Benign neoplasm**: gross and microscopic characteristics suggest it will remain localized. Well-circumscribed, slow clonal expansile growth, usually no necrosis, insignificant effect on host (but location dependent). Absent metastasis.
 - **Malignant neoplasm**: gross and microscopic characteristics indicate it has the capability to infiltrate and destroy adjacent structures as well as spread to distant sites. Gross appearance is irregular, variable and often rapid invasive growth pattern, necrosis is often present, and there is a significant effect on the host. Metastasis is characteristic.
@@ -43,8 +33,8 @@ categories: pathology
 <span><br></span>
 
 ### Neoplasia concepts
-- Four major stages: malignant chance in the tumor cell (transformation), cell growth, local invasion, distant metastasis.
-- Cellular reactions to stimuli: atrophy, hypertrophy, hyperplasia, metaplasia, dysplasia, neoplasia. Be able to sketch these all out!
+- **Four major stages**: malignant change in the tumor cell (transformation), cell growth, local invasion, distant metastasis.
+- **Cellular reactions to stimuli**: atrophy, hypertrophy, hyperplasia, metaplasia, dysplasia, neoplasia. Be able to sketch these all out!
 - Example: intra-epithelial neoplasia: many epithelial tumors originate as local dysplastic cell proliferations within the epithelium. These proliferations can be seen to undergo a predictable progression of intra-epithelial growth, populated by abnormal basal cells taking up more and more epithelial thickness. When neoplastic cells occupy the full thickness, it is called **carcinoma in situ**.
 - **Invasion** is the process of a malignant tumor growing beyond its basement membrane, giving it access to blood vessels and lymphatics in order to spread further.
 
