@@ -5,20 +5,18 @@ date:   2014-02-10 09:00:00
 categories: hematology
 ---
 
-### Objectives
-- **Follow up!**
+### Spleen - The Basics
+- The spleen sits in left upper quadrant, bordered by ribs, stomach, splenic flexure of the colon, and kidney. It's normally "fist-sized," mass of approximately 150 grams, 12x7x3 cm.
+- It is encased by thin gray connective tissue capsule, and contains red pulp and white pulp (visible as gray specks in a red friable/bloody parenchyma)
+- **White pulp**: lymphoid tissue surround medium-sized splenic arteries. The **T-cell** is the main lymphoid cell in the peri-arteriole lymphoid sheath (PALS). There are occasional expansion of B-lymphocytes forming nodules, and when there is antigenic stimulation, germinal centers will form.
+- **Red pulp**: thin-walled vascular sinusoids which are separated by **splenic cords of Billroth**. The endothelial lining of the sinusoid is open or discontinuous, providing passage of blood cells between the sinusoids and cords. Cords are a labyrinth of macrophages, creating a physical and functional filter for blood.
+- **Blood filtration**: "closed circulation" - artery to capillary to splenic veins; this is rapid and not filtrative. "Open circulation" - arteries to capillaries to splenic cords to sinusoids, to splenic veins. This is a slower process and only a small fraction of blood takes this route, but over the course of the day the entire blood volume is processed in this way. "Red cells have to navigate through the tiny slits," thus requires erythrocyte to be a deformable, biconcave disc.
+- **Function**: spleen is the largest unit of the mononuclear phagocytic system, and is involved in all systemic inflammations, generalized hemopoietic disorders, and metabolic disturbances. Four major functions: (1) filtering and removal of unwanted or old peripheral blood elements by splenic phagocytosis, (2) immune response to blood-borne antigens, by means of phagocytic cells in red pulp and lymphoid cells in the white pulp, (3) source of hemopoiesis, and (4) sequestration of blood elements.
 
 <span><br></span>
 
-### Spleen - The Basics
-- Sits in left upper quadrant, bordered by ribs and stomach. 
-- Normally fist-sized, 150 grams, 12x7x3 cm.
-- Encased by thin gray connective tissue capsule, contains red pulp and white pulp (visible as gray specks in a red friable/bloody parenchyma)
-- **White pulp**: lymphoid tissue surround medium-sized. T-cell main lymphoid cell in the peri-arteriole lymphoid sheath (PALS). There are occasional expansion of B-lymphocytes forming nodules, and when there is antigenic stimulation and germinal center
-- **Red pulp**: follow up, slide 5
-- **Blood filtration**: "closed circulation" - artery to capillary to splenic veins; rapid. "Open circulation" - arteries to capillaries to splenic cords to sinusoids, to splenic veins. This is a slower process and only a small fraction of blood takes this route, but over the course of the day the entire blood volume is processed in this way. "Red cells have to navigate through the tiny slits," thus requires erythrocyte to be a deformable, biconcave disc.
-- **Function**: spleen is the largest unit of the mononuclear phagocytic system, and is involved in all systemic inflammations, generalized hematopoeitic disorders, and metabolic disturbances. Four major functions: (1) filtering and removal of unwanted or old peripheral blood elements by splenic phagocytosis, (2) immune response to blood-borne antigens, by means of phagocytic cells in red pulp and lymphoid cells in the white pulp, (3) source of hematopoesis, and (4) sequestration of blood elements.
-- **Pathology**: Most disorders of the spleen involved splenomegaly, which may cause mass effect leading to enlarged abdomen, early satiety, pain, or cytopenias.
+### Spleen Pathology
+- Most disorders of the spleen involved splenomegaly, which may cause mass effect leading to enlarged abdomen, early satiety, pain, or cytopenias.
 - **Hereditary spherocytosis**: RBCs are spherical due to membrane protein dysfunction, cannot deform to get through sinus cords, leading to phagocytic destruction of the RBCs, leading to hemolytic anemia.
 - **Accessory spleen**: common, small spherical structures that are histologically and functionally identical to the spleen. In certain disorders where removing the spleen is necessary, overlooking an accessory spleen can negate the benefit the removing of the spleen. 
 - **Immunology / Histology**: Dendritic cells in the PALS trap antigens and present them to T-cells resulting in an activated immune responses. Enlargement of the spleen occurs in any blood-borne infection. If you find granulomas of the spleen, get an acid-fast to rule out mycobacteria. Hydatidosis is parasitic, not common in US. Splenomegaly after EBV mononucleosis, beware for splenic rupture in these patients.

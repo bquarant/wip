@@ -20,7 +20,7 @@ categories: hematology
 - 8 months and on: bone marrow of all bones
 - Adults: predominantly axial skeleton.
 - The liver and spleen never lose their capability for erythropoiesis, and can take over when the bone marrow is damage or in the setting of a myeloproliferative disorder. 
-- Erythropoiesis is governed by erythropoietin, produced by the kidney and liver in response to low oxygen tension. Epo levels can be measured in the lab. Epo also bound to circulating erythrocytes. **Hepcidin** is produced in the liver and controls iron  absorption from the GI tract and iron release from macrophages. Iron must be released from bone marrow macrophages to be incorporated into the heme group of hemoglobin. Administration of erythropoietin has been associated with increased risk of both arterial and venous thrombosis, also been implicated in cancer progression in some studies due to increased blood flow to the tumor. 
+- Erythropoiesis is governed by erythropoietin, produced by the kidney and liver in response to low oxygen tension. Erythropoietin levels can be measured in the lab. Erythropoietin also bound to circulating erythrocytes. **Hepcidin** is produced in the liver and controls iron  absorption from the GI tract and iron release from macrophages. Iron must be released from bone marrow macrophages to be incorporated into the heme group of hemoglobin. Administration of erythropoietin has been associated with increased risk of both arterial and venous thrombosis, also been implicated in cancer progression in some studies due to increased blood flow to the tumor. 
 - **Normal hemoglobin production requires**: intact bone marrow structure and function. Intact hormonal axis, including thyroid, erythropoietin, and adrenal steroids. Necessary nutrients including iron, folic acid, and cyanocobalamin. Normal red cell survival times, such that production keeps up with loses. No inborn errors in either globin or heme synthesis.
 
 <span><br></span>
@@ -45,7 +45,7 @@ categories: hematology
 - **Pediatrics**: exposure to lead, pica, milk intake (decreases iron absorption)
 
 <span><br></span>
-### Lab approach to anemia
+### Laboratory thought process / workup of anemia
 - Look at old CBCs! Useful for establishing a time-line.
 - Look at the entire CBC! - Is this an isolated anemia or are more than one cell line involved?
 - Look at the indices! - Especially MCV (mean corpuscle volume, 80-100) and RDW (variation in size)
