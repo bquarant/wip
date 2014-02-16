@@ -58,6 +58,11 @@ categories: hematology
 - **The hepatic period** - Blood cell precursors arise from the mesoderm layer in the aorta-gonad-mesonephros region, then distribute to hematopoietic sites. Hemopoiesis begins in the **liver** in the 6th week in utero and diminishes by the 6th month, but still persists somewhat at birth. Erythrocytes with fetal hemoglobin, granulocytes, and myeloid megakaryocytes are produced during the hepatic period. Spleen displays parallel activity between the 3rd and 5th months, then also ceases.
 - **The myeloid period** - bone marrow hemopoiesis starts at the 3rd month in utero, takes over as the major site at month 6, and persists for the remainder of life. Fetal hemoglobin is also made here, and the switch from *HbF* to *HbA* occurs at birth. Most frequent site for extramedullary hematopoiesis (a return to embryonic sites) is the spleen, second is the liver.
 
+<div style="text-align:center;" markdown="1">
+![]({{site.baseurl}}/assets/hemapoiesis-thru-development.png)
+</div>
+
+
 <span><br></span>
 
 ### Microscopic study of hemopoietic cells in bone marrow
