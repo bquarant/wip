@@ -107,7 +107,7 @@ categories: hematology
 ### Hemoglobins with abnormal (HIGH) oxygen affinity
 - **Hb McKees-Rock**: β<sub>145</sub> Tyr to STOP. This is the tyrosine that "pops" out of a hydrophobic pocket when O<sub>2</sub> binds to normal hemoglobin; this mutation leads to the breaking of salt links that facility T to R state conversion as a part of the positive homotropic effect. 
 - Note: if the last two residues are deleted, then no stable T-state can be formed at all, thus, hemoglobin locked in the R-state 
-- **Hb McKee's Rock** loss of positive homotropic effect means Hb is always stuck in R-state (relaxed) and thus has high affinity for oxygen. Only heterozygotes known, and the body will compensate by just making more RBCs (secondary polycythemia/erthyrocytosis)
+- **Hb McKee's Rock** loss of positive homotropic effect means Hb is always stuck in R-state (relaxed) and thus has high affinity for oxygen. Only heterozygotes known, and the body will compensate by just making more RBCs (secondary polycythemia/erythrocytosis)
 - **Hb Hiroshima**: β<sub>146</sub> His to Asp. Leads to loss of negative heterotropic effect of H<sup>+</sup>, leading to O<sub>2</sub> release decreased and O<sub>2</sub> affinity increase. Survival depends on heterozygosity and compensation with secondary polycythemia.
 - **Hb Syracuse**: β<sub>143</sub> His to Pro. Decreased binding affinity of BPG leads to less T-state stabilization, more R-state stabilization, and thus higher O<sub>2</sub> binding affinity. Again, survival depends on heterozygosity and secondary polycythemia.
 - **Hb Kempsey**: β<sub>99</sub> Asn to Asp. At α1β2 interface.  Large allosteric effect driven movement is prohibited, locking hemoglobin in the R-state. Again, survival depends on heterozygosity and compensation leads to secondary polycythemia.
@@ -116,4 +116,33 @@ categories: hematology
 
 ### Hemoglobins with abnormal (LOW) oxygen affinity
 - Fewer low-affinity hemoglobin variants are known compared with the high-affinity variants, likely due to less severe clinical course.
-- **Hb Kansas**: β<sub>102</sub> Asn to Thr, also at α1β2 interface.
+- **Hb Kansas**: β<sub>102</sub> Asn to Thr, also at α1β2 interface. Essentially the opposite of Hb Kempsey, makes the R-state quaternary structure unstable and locks the hemoglobin into the T-state. Hb Kansas binds oxygen worse, but releases oxygen better. The **cyanosis** is likely due to increased O<sub>2</sub> release in the tissues rather than decreased saturation in the lungs. 
+
+<span><br></span>
+
+### The Methemoglobins
+- There are two His residues on either side of the flat heme prosthetic group, one binds to the Fe<sup>2+</sup> atom, and moves when the O<sub>2</sub> binds, thus beginning the chain of events that leads to the positive homotropic effect. The other His residue is nearby, but does not bind the iron of a normal hemoglobin molecule.
+- 4 of the 6 methemoglobin mutations are at the His residue on either the α- or β-chain.
+- **Tyrosine**'s hydroxyl group is likely the culprit behind the shift between Fe<sup>3+</sup> binding instead of Fe<sup>2+</sup>.
+- Only Fe<sup>2+</sup> binds O<sub>2</sub> reversibly; and the erythrocyte has a metabolic system designed to keep Fe<sup>2+</sup> in its reduced state.
+- **Presentation**: Cyanosis, due to decreased amount of oxy-Fe<sup>2+</sup>-hemoglobin. Otherwise asymptomatic, survival and thriving due to heterozygosity.
+
+<span><br></span>
+
+### Structural variants with Thalassemic Phenotype
+- **Hb Lepore**: N-terminal normal delta-chain fused with C-terminal normal beta-chain, leads to new beta-like chain and decreased amount of beta-chain.
+- Fusion gene mutations occur during crossing over.
+- Symptoms are similar to moderate to severe beta-thalassemia.
+
+<span><br></span>
+
+### The Thalassemias
+- **Decreased synthesis** of otherwise normal alpha or beta chains.
+- Both alpha- and beta-thalassemias are polymorphic traits, with high incidences in specific populations. Alpha-thalassemias prevalent in China, beta-thalassemias prevalent in India and Mediterranean. Thalassemia populations follow distribution of the mosquito in hot, humid climate.s
+- **alpha-thalassemias**: generally due to gene deletion. Unlike beta-thalassemia, alpha-thalassemia can effect fetal hemoglobin, leads to **hydrops fetalis** if there are no alpha-chains (all 4 deleted!), leads to severe intrauterine hypoxia and fatal H<sub>2</sub>O accumulation in brain and other organs. **Gamma<sub>4</sub>-homotetramers** form, but cannot release O<sub>2</sub>. Alpha-thalassemia after birth make beta<sub>4</sub>-homotetramers, which precipitate as Heinz bodies, lead to hemolytic anemia. Severity of anemia correlates with number of alpha-globin genes deleted!
+- **beta-thalassemias**: over 200 different point mutations known, characterized by decreased amount of Beta-globin; most due to mRNA amounts ( promoter mutation leading to decreased transcription, other processing defects, less common are translation problem). Alpha<sub>4</sub>-homotetramers form and precipitate, leading to hemolytic anemia with hypochromic, microcytic cells. Effects only seen after birth, due to regulation changes. **Beta-thalassemia minor**: β<sup>A</sup>β<sup>Thal</sup> genotype. Slightly anemic, usually clinically OK. HbA<sub>2</sub> levels increase in heterozygotes, is diagnostic. Dangerous to give iron!!! **Beta-thalassemia major**: single-base pair substitutions. Homozygotes have two  β<sup>Thal</sup> alleles, and often not the same. β<sup>0</sup>-Thal make no beta-chains, no HbA<sub>1</sub>. β<sup>+</sup>-Thal make some beta-chains, some HbA<sub>1</sub>. **Prognosis**: decreased life expectancy. **Treatment**: require transfusions but might become iron overloaded due to this procedure, so use iron chelation (desferoxamine) before liver and cardiac toxicity develop. Bone marrow transplant.
+- Clinical hallmark: **imbalance** in amounts of alpha- or beta-chain. Excess amount of the normal chain precipitates, leading to hemolytic anemia.
+- **Labs**: hypochromic, microcytic anemia!
+
+
+- Pick it  up on page 28!
