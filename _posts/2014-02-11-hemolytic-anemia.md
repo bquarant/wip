@@ -71,7 +71,7 @@ categories: hematology
 
 ### Autoimmune hemolytic anemia (AIHA)
 - Develops when patient produces antibodies against their own red cel antigens, usually against high incidence antigens. Can be either IgG (leading to phagocytosis, "warm"), IgM (leading to complement activation and intravascular hemolysis). Can be primary (idiopathic), secondary.
-- **Secondary AIHA**. Settings: autoimmune disease (SLE), lymphoproliferative disease (lymphoma), drugs (chemotherapy?), infection (HIV, HCV).
+- **Secondary AIHA** occurs in the setting of autoimmune disease (SLE), lymphoproliferative disease (lymphoma), drugs (chemotherapy?), of infection (HIV, HCV).
 - **Treatment**: treat the underlying disorder if possible (Lupus? Steroids. HIV? Antiretrovirals.), otherwise you need to suppress the immune system (corticosteroids, rituximab, splenectomy, IVIG)
 
 <span><br></span>

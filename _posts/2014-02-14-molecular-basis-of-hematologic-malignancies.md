@@ -19,7 +19,7 @@ categories: hematology
 <span><br></span>
 ### Hematologic malignancies
 - Hematologic malignancies = clonal disease: an unknown complex sequence of events in which a **mutated stem cell** forms a clone that has the capability of survival with or without differentiation or maturation, and respond poorly to normal feedback stimuli.
-- Defining the clone: the clone is composed of genotypically identical cells that ay or may not have ability to mature. They harbor identical genetic abnormalities, but may have variable cytomorphological or immunophenotypic features
+- Defining the clone: the clone is composed of genotypically identical cells that ay or may not have ability to mature. They harbor identical genetic abnormalities, but may have variable cytomorphological or immunophenotypic features.
 
 <span><br></span>
 ### Tools in diagnostic work-up of hematologic malignancies
