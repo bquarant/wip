@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Histology of the Esophagus and Stomach"
-date:   2014-02-24 8:00:00
+date:   2014-02-25 8:00:00
 categories: gastro
 ---
 
