@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Achondroplasia Patient Presentation"
+title:  "Achondroplasia"
 date:   2014-05-16 13:00:00
 categories: musculoskeletal
 ---
