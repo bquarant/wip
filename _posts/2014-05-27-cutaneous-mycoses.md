@@ -20,7 +20,7 @@ categories: musculoskeletal
 
 - **Candidal Intertrigo**: Erythematous, macerated plaques or erosions. Increased risk with obesity, diabetes, antibiotics, steroids, chemotherapy, or restrictive clothing. Common sites are gluteal, inframammary, infrapannicular, inguinal, and interdigital. Usually caused by *C. albicans*, topical prescription and use nystatin with a drying agent applied at a different time.
 
-- **Malessezia**: Common commensal skin dimorphic fungi. 3 groups of infections: Tinea (pityriasis) veriscolor - upper body scaly lesions, usually the opposite color of the patient's skin, treat with ketoconazole; seborrheic dermatitis: "seborrhea" - scalp, face, and trunk. , invasive infections of the immunocompromised. 
+- **Malessezia**: Common commensal skin dimorphic fungi. 3 groups of infections: Tinea (pityriasis) veriscolor - upper body scaly lesions, usually the opposite color of the patient's skin, treat with ketoconazole; seborrheic dermatitis: "seborrhea" - scalp, face, and trunk.
 
 <span><br></span>
 
@@ -34,8 +34,8 @@ categories: musculoskeletal
 ### Skin manifestations of invasive fungi
 - Organ systems or disseminated infections sometimes have skin lesions
 - **Dimorphic fungi** Histoplasma, blastomyces, coccidioides
-- **Cryptococcus neoformans**:
-- **Opportunists**:
+- **Cryptococcus neoformans**
+- **Opportunists**: C. albicans, aspergillus
 
 <span><br></span>
 
