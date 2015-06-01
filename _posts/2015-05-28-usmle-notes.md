@@ -5,7 +5,7 @@ date:   2015-05-28 14:00:00
 categories: boards
 ---
 
-_ **Livedo reticularis**: another manifestation of atheromatous complications following coronary angioplasty; p/w necrotic toe, BUN/CR increased, and a "net like rash" following LAD PCI.
+- **Livedo reticularis**: another manifestation of atheromatous complications following coronary angioplasty; p/w necrotic toe, BUN/CR increased, and a "net like rash" following LAD PCI.
 - **Bloom syndrome**: mutated DNA helicase leads to chromosomal instability, predisposition to cancer, and short stature.
 - **Bejel, yaws, pinta**
 - **Rosenthal fibers**: eosinophilic, corkscrew fibers found in pilocytic astrocytomas
@@ -17,5 +17,4 @@ _ **Livedo reticularis**: another manifestation of atheromatous complications fo
 - **Tryptase**: a biomarker for mast cell degranulation during anaphylaxis, released with histamine
 - **Cystic degeneration of the putamen**: think Wilson's disease (aka lentiform nuclei degeneration)
 - **Imperforate anus**: most commonly associated with urogenital tract defects then VACTERL (vertebral defect, anal atresia, cardiac abnormalities, tracheoesophageal fistula, esophageal atresia, renal defects, and limb problems).
-- **Vernet syndrome**: jugular foramen compression, cranial neuropathies IX, X, and XI.
-- 
+- **Vernet syndrome**: jugular foramen compression, cranial neuropathies IX, X, and XI
