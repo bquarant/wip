@@ -7,14 +7,14 @@
         <meta name="viewport" content="width=device-width">
 
         <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+        <link rel="stylesheet" href="/wip/css/syntax.css">
 
         <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/wip/css/main.css">
 
-		<!-- Set refresh timer for local development 
+		<!-- Set refresh timer for local development
 		<meta http-equiv="refresh" content="10" />-->
-		
+
     </head>
     <body>
 
@@ -55,7 +55,7 @@ After some initial difficulties originating from not really understanding the cl
 
 **Setting**
 <div style="text-align:center;" markdown="1">
-![](/assets/hack-space-7-25-2013-2.jpg)
+![](/wip/assets/hack-space-7-25-2013-2.jpg)
 <br>
 Boston College, O'Neill Library
 </div>
@@ -73,11 +73,11 @@ Boston College, O'Neill Library
 			<br>
 			<hr>
             <div class="footer">
-			<h6><p><a href="/">&#60; Back</a></p></h6>
+			<h6><p><a href="/wip/">&#60; Back</a></p></h6>
 			</div>
            	<div class="contact">
                 <p>
-					<a href="http://bquarant.github.io/">bquarant.github.io</a> | 2014 
+					<a href="http://bquarant.github.io/">bquarant.github.io</a> | 2014 - 2016
                </p>
               </div>
           </div>
