@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Work in Progress"
-date:   2016-11-02 20:02:17
+date:   02-11-2016 20:02:17
 categories: code
 ---
 
@@ -25,6 +25,7 @@ Getting this repository back to its original purpose.
 * Cleaned and restored /wip
 * Registered findscribe.com
 * Removed even more img from /wip/assets
+* Got <code>rails new</code> to work locally... but not with -postgresql
 
 <br>
 
@@ -36,7 +37,8 @@ Return: The integer corresponding to the square of the hypotenuse of the right t
 
 ```python
 hypotenuse.py
-a = var1
-b = var2
+a = 982
+b = 927
 c = (a ** 2) + (b ** 2)
+print(c)
 ```
