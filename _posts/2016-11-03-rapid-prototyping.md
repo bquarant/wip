@@ -5,10 +5,6 @@ date:   03-11-2016 00:43:32
 categories: code
 ---
 
-## Thoughts
-
-<br>
-
 ## Done
 
 * Fixed timestamp issue in Jekyll date: field
@@ -19,6 +15,8 @@ categories: code
 ## Rosalind.info
 
 * Hilarious amount of attempts to find out out that INI2 just wanted the "number" returned, not the code...
+* Got through INI3
+* Made an attempt at INI4, but failed
 
 <br>
 
